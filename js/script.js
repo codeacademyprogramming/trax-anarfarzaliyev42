@@ -64,7 +64,7 @@ $(document).ready(function () {
       autoplay:true,
       autoplayTimeout:10000,
       nav:true, 
-      navText:['<button type="button" role="presentation" class="owl-prev"><i class="fas fa-angle-left"></i></button>','<button type="button" role="presentation" class="owl-next"><i class="fas fa-angle-right"></i></button>'],
+      navText:['<i class="fas fa-angle-left"></i>','<i class="fas fa-angle-right"></i>'],
       animateIn: 'fadeIn',
   });
  
